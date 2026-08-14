@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive practice module for Data Analysis using the Python ecosystem. The curriculum covers data manipulation, statistical visualization, and distributed computing with PySpark.
 
----
+-------------------------------------------
 
 ## 🛠 Tech Stack & Tools
 
